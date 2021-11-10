@@ -10,7 +10,7 @@ Made on 19 September 2019, First published on 10 November 2021
 which will ultimately end the game as draw.
 
 To avoid possible confusion, here is the coordinate for each option in the board:
-___________________
+
 |(0,0)|(0,1)|(0,2)|
 |-----------------|
 |(1,0)|(1,1)|(1,2)|
