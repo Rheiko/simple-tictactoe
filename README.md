@@ -12,7 +12,7 @@ which will ultimately end the game as draw.
 To avoid possible confusion, here is the coordinate for each option in the board:
 
 - |(0,0)|(0,1)|(0,2)|
-- |---------------|
+- |----------------|
 - |(1,0)|(1,1)|(1,2)|
-- |---------------|
+- |----------------|
 - |(2,0)|(2,1)|(2,2)|
